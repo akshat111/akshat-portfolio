@@ -12,10 +12,10 @@ const HeroSection = () => {
           development, cybersecurity, and building innovative solutions.
         </p>
         <p>
-          I have experience in{" "}
-          <strong>React.js, Node.js, MongoDB, and cybersecurity</strong>. I’ve
-          developed multiple projects, including a cryptocurrency tracker, and
-          an Weather App.
+          I have studied in{" "}
+          <strong>Java, JavaScript,React.js, Node.js, cybersecurity </strong>
+          gaining practical knowledge through developing projects like a
+          cryptocurrency tracker and a weather application.
         </p>
         <p>
           My goal is to leverage my technical skills to create impactful

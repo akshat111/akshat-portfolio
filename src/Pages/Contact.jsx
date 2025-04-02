@@ -1,6 +1,6 @@
 import React from "react";
-import "./contact.css";
-import { FaLinkedin, FaEnvelope, FaInstagram } from "react-icons/fa";
+import "./Contact.css";
+import { FaLinkedin, FaEnvelope, FaInstagram, FaGithub } from "react-icons/fa";
 
 const Contact = () => {
   return (
@@ -14,7 +14,7 @@ const Contact = () => {
           <li>
             <FaLinkedin />{" "}
             <a
-              href="https://www.linkedin.com/in/akshatkumar"
+              href="https://www.linkedin.com/in/kakshat111/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -23,18 +23,24 @@ const Contact = () => {
           </li>
           <li>
             <FaEnvelope />{" "}
-            <a href="mailto:akshatkumar@example.com">
-              Email: akshatkumar@example.com
+            <a href="mailto:kakshat111@gmail.com">
+              Email: kakshat111@gmail.com
             </a>
           </li>
           <li>
             <FaInstagram />{" "}
+            <a href="" target="_blank" rel="noopener noreferrer">
+              Instagram
+            </a>
+          </li>
+          <li>
+            <FaGithub />{" "}
             <a
-              href="https://www.instagram.com/akshatkumar"
+              href="https://github.com/akshat111"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Instagram
+              GitHub
             </a>
           </li>
         </ul>

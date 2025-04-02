@@ -22,11 +22,12 @@ const AboutMe = () => {
         <h2>Skills</h2>
         <ul>
           <li>Java</li>
+          <li>JavaScript</li>
           <li>React.js</li>
           <li>Node.js & Express</li>
           <li>MongoDB</li>
           <li>SQL</li>
-          <li>Web Security & Digital Forensics</li>
+          <li>Cyber Security </li>
         </ul>
       </div>
 
@@ -34,8 +35,8 @@ const AboutMe = () => {
         <h2>Hobbies & Interests</h2>
         <p>
           I enjoy watching movies, playing games, and exploring new tech trends.
-          I'm also passionate about cryptocurrency trading and understanding
-          financial markets.
+          I'm also passionate about financial markets and gaining some knowledge
+          in it.
         </p>
       </div>
     </div>
