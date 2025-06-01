@@ -10,7 +10,7 @@ const AboutMe = () => {
         <div className="about-text">
           <h1>About Me</h1>
           <p>
-            Hi, I'm <strong>Akshat Kumar</strong>, a Computer Science graduate
+            Hi, I'm <strong>Akshat Kumar</strong>, a Computer Science Graduate
             specializing in Cyber Security and Digital Forensics. I have a
             passion for developing web applications, creating impactful software
             solutions, and enhancing cybersecurity measures.
